@@ -1,0 +1,12 @@
+C:\Users\daniel.cristea\source\repos\PontajK020\PontajK020\bin\Debug\PontajK020.exe.config
+C:\Users\daniel.cristea\source\repos\PontajK020\PontajK020\bin\Debug\PontajK020.exe
+C:\Users\daniel.cristea\source\repos\PontajK020\PontajK020\bin\Debug\PontajK020.pdb
+C:\Users\daniel.cristea\source\repos\PontajK020\PontajK020\bin\Debug\PontajK020.xml
+C:\Users\daniel.cristea\source\repos\PontajK020\PontajK020\obj\Debug\PontajK020.vbprojResolveAssemblyReference.cache
+C:\Users\daniel.cristea\source\repos\PontajK020\PontajK020\obj\Debug\PontajK020.Resources.resources
+C:\Users\daniel.cristea\source\repos\PontajK020\PontajK020\obj\Debug\PontajK020.vbproj.GenerateResource.Cache
+C:\Users\daniel.cristea\source\repos\PontajK020\PontajK020\obj\Debug\PontajK020.vbproj.CoreCompileInputs.cache
+C:\Users\daniel.cristea\source\repos\PontajK020\PontajK020\obj\Debug\PontajK020.exe
+C:\Users\daniel.cristea\source\repos\PontajK020\PontajK020\obj\Debug\PontajK020.xml
+C:\Users\daniel.cristea\source\repos\PontajK020\PontajK020\obj\Debug\PontajK020.pdb
+C:\Users\daniel.cristea\source\repos\PontajK020\PontajK020\obj\Debug\PontajK020.frmMain.resources
