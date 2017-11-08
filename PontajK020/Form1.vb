@@ -124,7 +124,7 @@ Public Class frmMain
         action = LCase(Strings.Mid(Info, InStr(Info, "[", CompareMethod.Text) + 1, InStr(Info, "]", CompareMethod.Text) - Strings.Len(angajat) - 3))
         hour_action = Strings.Right(Info, Strings.Len(Info) - InStr(Info, "]", CompareMethod.Text) - 1)
 
-        Dim request As WebRequest = WebRequest.Create("http://www.winsys.ro/winsys.ro/php/add_pontaj.php?ziua='" & ziua & "'&angajat='" & angajat & "'&" & action & "='" & hour_action & "'")
+        Dim request As WebRequest = WebRequest.Create("http://localhost/php/add_pontaj.php?ziua='" & ziua & "'&angajat='" & angajat & "'&" & action & "='" & hour_action & "'")
         Dim response As WebResponse = request.GetResponse()
         ' Display the status.  
         Console.WriteLine(CType(response, HttpWebResponse).StatusDescription)
